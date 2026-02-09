@@ -1,5 +1,8 @@
-
 {
-  "name": "Wix OmniGrow Suite Explorer",
-  "description": "An interactive visualization of the Wix OmniGrow All-in-One Growth & Operations Suite. Explore the features and their connections in a dynamic, force-directed graph."
+  "name": "Patooworld Store",
+  "description": "A high-end, responsive e-commerce storefront featuring AI-powered search, smooth transitions, and intuitive cart management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
